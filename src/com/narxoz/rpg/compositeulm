@@ -1,0 +1,9 @@
+CombatNode
+   |
+UnitLeaf
+ /      \
+HeroUnit EnemyUnit
+
+PartyComposite
+      |
+   RaidGroup
