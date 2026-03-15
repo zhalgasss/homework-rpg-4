@@ -1,0 +1,8 @@
+Skill
+ /     \
+SingleTargetSkill  AreaSkill
+
+Skill -------- EffectImplementor
+                   |
+       FireEffect  IceEffect
+       PhysicalEffect ShadowEffect
